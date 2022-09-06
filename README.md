@@ -1,2 +1,2 @@
 # Sol-Lewitt
- 
+A golden yellow circle redrawn every 0.02th of a second along the circumference of an invisible circle, the old gold colored radius connecting it to the centers of both the circle and the top of the window. Accelerating as it reaches its lowest point at the center of the window, slowing as it reaches its peak roughly a fifth away from the window width’s edge, before changing direction and starting the cycle anew; it looks like a pendulum swinging in front of a golden brown backdrop.
